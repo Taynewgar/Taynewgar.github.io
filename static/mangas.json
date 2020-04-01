@@ -1,0 +1,101 @@
+{
+   "mangas":[
+      {
+         "id":1,
+         "criado": "2020-03-01T05:07:04.779Z",
+         "titulo":"Akira",
+         "subtitulo":"",
+         "autor":"Katsuhiro Otomo",
+         "editora":"JBC",
+         "edicao":2,
+         "preco":55,
+         "favorito":true,
+         "imagem":"https://http2.mlstatic.com/akira-2-manga-jbc-novo-e-lacrado-D_NQ_NP_635025-MLB27701556897_072018-F.webp"
+      },
+      {
+         "id":2,
+         "criado": "2020-03-02T19:07:04.776Z",
+         "titulo":"Jojo Bizarre Adventure",
+         "subtitulo":"Phantom Blood",
+         "autor":"Hirohiko Araki",
+         "editora":"Panini",
+         "edicao":1,
+         "preco":25,
+         "favorito":false,
+         "imagem":"https://http2.mlstatic.com/jojos-bizarre-adventure-phantom-blood-1-panini-lacrado-D_NQ_NP_868318-MLB27955829907_082018-F.webp"
+      },
+      {
+         "id":3,
+         "criado": "2020-03-03T20:07:04.776Z",
+         "titulo":"Dragon Ball",
+         "subtitulo":"",
+         "autor":"Akira Toriyama",
+         "editora":"Panini",
+         "edicao":3,
+         "preco":10,
+         "favorito":true,
+         "imagem":"https://http2.mlstatic.com/dragon-ball-3-panini-D_NQ_NP_236405-MLB20851352110_082016-F.webp"
+      },
+      {
+         "id":4,
+         "criado": "2020-03-04T20:07:04.776Z",
+         "titulo":"Ghost in The Shell",
+         "subtitulo":"",
+         "autor":"Masamune Shirow",
+         "editora":"JBC",
+         "edicao":1,
+         "preco":40,
+         "favorito":true,
+         "imagem":"https://jbchost.com.br/mangasjbc/wp-content/uploads/2016/11/The-Ghost-in-the-Shell-1-Sobrecapa2.jpg"
+      },
+      {
+         "id":5,
+         "criado": "2020-03-05T20:07:04.776Z",
+         "titulo":"Card Captor Sakura",
+         "subtitulo":"Clear Card Arc",
+         "autor":"CLAMP",
+         "editora":"JBC",
+         "edicao":4,
+         "preco":17.90,
+         "favorito":false,
+         "imagem":"https://http2.mlstatic.com/card-captor-sakura-clear-card-2-ao-4-manga-jbc-novo-lacrado-D_NQ_NP_626716-MLB40590988403_012020-F.webp"
+      },
+      {
+         "id":6,
+         "criado": "2020-03-06T20:07:04.776Z",
+         "titulo":"Demon Slayer",
+         "subtitulo":"Kimetsu no yaiba",
+         "autor":"Koyoharu Gotouge",
+         "editora":"Panini",
+         "edicao":1,
+         "preco":19.92,
+         "favorito":false,
+         "imagem":"https://img.assinaja.com/assets/tZ/004/img/201963_520x520.jpg"
+      },
+
+      {
+         "id":7,
+         "criado": "2020-03-07T20:07:04.776Z",
+         "titulo":"Yu Yu Hakusho",
+         "subtitulo":"",
+         "autor":"Yoshihiro togashi",
+         "editora":"JBC",
+         "edicao":18,
+         "preco":9.9,
+         "favorito":true,
+         "imagem":"https://images-na.ssl-images-amazon.com/images/I/518ZExOFK5L._SX343_BO1,204,203,200_.jpg"
+      },
+      {
+         "id":8,
+         "criado": "2020-03-08T20:07:04.776Z",
+         "titulo":"Rurouni Kenshin",
+         "subtitulo":"Samurai X",
+         "autor":"Nobuhiro Watsuki",
+         "editora":"JBC",
+         "edicao":1,
+         "preco":50,
+         "favorito":true,
+         "imagem":"https://jbchost.com.br/mangasjbc/wp-content/uploads/2012/11/capa_rurouni_kenshin_01_g.jpg"
+      }      
+   ]
+}
